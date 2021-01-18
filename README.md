@@ -14,5 +14,8 @@ https://majestic.com/reports/majestic-million
 
 ## DGA
 
+https://osint.bambenekconsulting.com/feeds/
+
+https://data.netlab.360.com/
 
 감사합니다.
