@@ -12,6 +12,8 @@
 
 https://majestic.com/reports/majestic-million
 
+http://s3.amazonaws.com/alexa-static/top-1m.csv.zip
+
 ## DGA
 
 https://osint.bambenekconsulting.com/feeds/
