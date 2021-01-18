@@ -6,7 +6,7 @@
 
 네트워크 내 DNS 트래픽을 감시와 C&C서버로의 접속시도 행위 탐지 위해 만들었습니다.
 
-데이터셋은 하단의 URL에서 다운로드 받으실 수 있습니다.
+데이터셋은 하단의 URL에서 다운로드 받으실 수 있으며, DGA 도메인은 하루마다 업데이트 됩니다.
 
 ## Normal
 
@@ -19,5 +19,9 @@ http://s3.amazonaws.com/alexa-static/top-1m.csv.zip
 https://osint.bambenekconsulting.com/feeds/
 
 https://data.netlab.360.com/
+
+제가 프로젝트에서 사용한 데이터셋 CSV은 아래 URL에서 다운로드 받으실 수 있습니다.
+
+https://drive.google.com/drive/folders/1Z9BEaSMfXdXW1O-_g4vpZrnr-i1EXmh2?usp=sharing
 
 감사합니다.
